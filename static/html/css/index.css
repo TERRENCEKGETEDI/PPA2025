@@ -1,0 +1,10 @@
+main{
+    background-color: wheat;
+    overflow-y: auto;
+    height: 95vh;
+    padding: 1.5%;
+    width: 100%;
+}
+main div{
+    overflow-x: auto;
+}
