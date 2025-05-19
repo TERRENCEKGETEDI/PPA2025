@@ -4,6 +4,7 @@ main{
     height: 95vh;
     padding: 1.5%;
     width: 100%;
+    padding-bottom: 5vh;
 }
 main div{
     overflow-x: auto;
