@@ -39,10 +39,10 @@ function submit(){
                 valid=false;
             }
         }
-        // if(valid){
-        //     alert("Please answer all questions");
-        //     return;
-        // }
+        if(valid){
+            alert("Please answer all questions");
+            return;
+        }
     }
     run();
 }
