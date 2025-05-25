@@ -13,3 +13,10 @@ main section{
 a{
     text-decoration: none;
 }
+.main{
+    margin-left: 1%;
+
+}
+.main h2,.main h1{
+    text-align: center;
+}

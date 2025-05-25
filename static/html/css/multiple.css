@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+}
+li{
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: large;
+}
+ol input{
+    margin-left: 1%;
+    margin-bottom: 5px;
+    margin-right: 3px;
+}
+ol,#result{
+    margin-left: 2%;
+}
+main{
+    margin-bottom: 5vh;
+}
