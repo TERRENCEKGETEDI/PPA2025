@@ -7,3 +7,9 @@ p{
 main div{
     margin-left: 2%;
 }
+main{
+    margin-bottom: 5vh;
+}
+body{
+    background-color: rgb(202, 189, 163);
+}
